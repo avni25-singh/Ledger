@@ -4,6 +4,8 @@ A real-time cryptocurrency dashboard built with React and the CoinGecko API. Sea
 
 **[Live demo →](https://ledger-40ncjtpjh-avni25-singhs-projects.vercel.app/)** &nbsp;·&nbsp; **[Repo →](https://github.com/avni25-singh/Ledger)**
 
+Ledger is a fast, responsive crypto market dashboard for tracking live prices, market trends, and coin performance in one focused view.
+
 <!-- Add a screenshot or GIF here once deployed, e.g.: -->
 <!-- ![Dashboard screenshot](./docs/screenshot.png) -->
 
